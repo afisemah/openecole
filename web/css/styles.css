@@ -1,0 +1,24 @@
+body{
+	width: 100%;
+    height: 100%;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('../pictures/space.jpg');
+}
+.bienvenue{
+	color: #ffffff;
+    text-align: center;
+}
+.bienvenue_solution{
+	color: #ffffff;
+    text-align: center;
+    background-color: #ec0832;
+    width: 73%;
+    margin: 0 auto;
+}
+.demo{
+	color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+}
